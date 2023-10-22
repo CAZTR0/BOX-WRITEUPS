@@ -1,5 +1,6 @@
 # BOX-WRITEUPS
 Vulnerable box writeups
+VulHub -W34KN3SS
 echo "# BOX-WRITEUPS" >> README.md
 git init
 git add README.md
